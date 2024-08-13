@@ -18,7 +18,14 @@ FitNerd is a comprehensive fitness tracking app designed to help users monitor t
 - **Jetpack Compose**: Modern UI toolkit for building native Android UIs.
 - **NavHost Controller**: Manages app navigation and screen transitions.
 
-## Getting Started
+## ScreenShots
+![WhatsApp Image 2024-08-14 at 2 21 41 AM (2)](https://github.com/user-attachments/assets/1b56481a-bc07-41f1-b4e1-ad3ff2b7b01e)
+
+![WhatsApp Image 2024-08-14 at 2 21 41 AM (1)](https://github.com/user-attachments/assets/4fe392c4-37fc-4935-af87-07c25f4ec2da)
+![WhatsApp Image 2024-08-14 at 2 21 41 AM](https://github.com/user-attachments/assets/e53f4f62-2af9-456d-8f6b-af09d3b1b48c)
+![WhatsApp Image 2024-08-14 at 2 21 40 AM (2)](https://github.com/user-attachments/assets/f3187960-9377-4a12-91a0-bf43d73a5022)
+![WhatsApp Image 2024-08-14 at 2 21 40 AM](https://github.com/user-attachments/assets/2b81bafc-8131-4877-a44b-7828a37db1f2)
+![WhatsApp Image 2024-08-14 at 2 21 40 AM (1)](https://github.com/user-attachments/assets/a0e329d0-0af8-4005-b4bf-6840560223a6)
 
 ### Prerequisites
 
