@@ -1,3 +1,10 @@
+Name: Raj Aryan Jain
+Company: CODTECH IT SOLUTIONS
+ID: CT08AD971
+Domain:ANDROID DEVELOPMENT
+Duration: June to August 2023
+Mentor: SRAVANI GOUNI 
+
 # FitNerd
 
 FitNerd is a comprehensive fitness tracking app designed to help users monitor their calorie intake, workouts, and running activities. Built using Jetpack Compose, Firebase Authentication, and Firestore, FitNerd provides a seamless experience across devices with real-time data synchronization.
